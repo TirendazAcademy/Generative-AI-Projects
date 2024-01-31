@@ -1,1 +1,1 @@
-# The Text Generation with OpenAI and Streamlit 
+# Text Generation with OpenAI and Streamlit 
