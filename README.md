@@ -6,3 +6,4 @@ In this repo, I'll walk you through how to build generative AI apps. Hope you en
 
 ## YouTube Videos 
 - ![Introduction to Generative AI](https://youtu.be/SVOOsaWmgKk)
+- ![Text Generation App](https://youtu.be/WPlSpjiv4tk)
